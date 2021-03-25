@@ -1,29 +1,29 @@
 # countdown_project
-
-## Project setup
+### Npm installs for client
 ```
 npm install
+npm install vue-google-charts
+npm install vue-router
 ```
-
-### Compiles and hot-reloads for development
+### Npm installs for server
+```
+npm install
+npm install express
+npm install body-parser
+```
+### Npm installs for developer server
+```
+npm install --save-dev cors
+npm install --save-dev mongodb
+npm install --save-dev nodemon
+```
+### Run client
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### Run server
 ```
-npm run build
+npm run server:dev
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
