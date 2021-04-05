@@ -131,7 +131,7 @@ h2 {
   text-align: center;
   margin: 0px;
   color: white;
-  text-shadow: 0 0 6px #034078;
+  text-shadow: 0 0 5px #034078;
   margin-bottom: 30px;
   margin-left: 20px;
   margin-right: 20px;
