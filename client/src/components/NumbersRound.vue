@@ -26,7 +26,7 @@ import {eventBus} from '@/main.js'
         data(){
             return {
                 largeNumbers: [25, 50, 75, 100],
-                smallNumbers: [1, 1, 2, 2, 3, 4, 5, 6, 7, 8, 10, 3, 4, 5, 6, 7, 8, 10],
+                smallNumbers: [1, 1, 2, 3, 3, 4, 5, 6, 7, 8, 10, 3, 4, 5, 6, 7, 8, 10],
                 playingNumbers: [],
                 targetNumber: 0,
                 timerEnded: false,
