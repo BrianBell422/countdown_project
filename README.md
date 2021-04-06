@@ -27,3 +27,5 @@ npm run server:dev
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![letters](https://gph.is/g/ZP8979p)
