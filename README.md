@@ -27,5 +27,3 @@ npm run server:dev
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-![](https://github.com/BrianBell422/countdown_project/demo_gifs/countdown_letters_demo.gif)
