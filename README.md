@@ -28,11 +28,12 @@ npm run server:dev
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+Homepage where you can choose to either play an individual section of the game or the full game which leads from one section to the next
+![countdown_demo_homepage](https://user-images.githubusercontent.com/74567808/113994672-7ce1ab00-984d-11eb-9721-ff05e8a6f552.png)
+
 ![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
 
 ![countdown_demo_anagram_2](https://user-images.githubusercontent.com/74567808/113994663-7c491480-984d-11eb-8583-8d68dc146bd3.png)
-
-![countdown_demo_homepage](https://user-images.githubusercontent.com/74567808/113994672-7ce1ab00-984d-11eb-9721-ff05e8a6f552.png)
 
 ![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/113994673-7d7a4180-984d-11eb-8795-73675ff16c3d.png)
 
