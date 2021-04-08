@@ -28,10 +28,18 @@ npm run server:dev
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/113993588-861e4800-984c-11eb-8750-fac3491a20d8.png)
+![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
 
-![countdown_demo_letters_2](https://user-images.githubusercontent.com/74567808/113994034-f2994700-984c-11eb-8838-72cbdc603d4f.png)
+![countdown_demo_anagram_2](https://user-images.githubusercontent.com/74567808/113994663-7c491480-984d-11eb-8583-8d68dc146bd3.png)
 
-![countdown_demo_numbers_1](https://user-images.githubusercontent.com/74567808/113994374-3db35a00-984d-11eb-8145-4b25aedb5845.png)
-![countdown_demo_numbers_2](https://user-images.githubusercontent.com/74567808/113994382-4015b400-984d-11eb-9aea-44954c64fda3.png)
-![countdown_demo_numbers_3](https://user-images.githubusercontent.com/74567808/113994384-40ae4a80-984d-11eb-8897-e9c5c388ae0e.png)
+![countdown_demo_homepage](https://user-images.githubusercontent.com/74567808/113994672-7ce1ab00-984d-11eb-9721-ff05e8a6f552.png)
+
+![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/113994673-7d7a4180-984d-11eb-8795-73675ff16c3d.png)
+
+![countdown_demo_letters_2](https://user-images.githubusercontent.com/74567808/113994677-7e12d800-984d-11eb-94b4-3cec68e00302.png)
+
+![countdown_demo_numbers_1](https://user-images.githubusercontent.com/74567808/113994680-7eab6e80-984d-11eb-9355-8cef09438bdf.png)
+
+![countdown_demo_numbers_2](https://user-images.githubusercontent.com/74567808/113994683-7eab6e80-984d-11eb-9648-ec7752f20126.png)
+
+![countdown_demo_numbers_3](https://user-images.githubusercontent.com/74567808/113994688-7f440500-984d-11eb-96a4-3e7b4153084e.png)
