@@ -44,12 +44,14 @@ Whoever has the longest word gets 5 points based on word length added to their s
 You can click the definition button below each players word which gets the definition from a dictionary API
 ![countdown_demo_letters_2](https://user-images.githubusercontent.com/74567808/113994677-7e12d800-984d-11eb-94b4-3cec68e00302.png)
 
-![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
-
-![countdown_demo_anagram_2](https://user-images.githubusercontent.com/74567808/113994663-7c491480-984d-11eb-8583-8d68dc146bd3.png)
-
 ![countdown_demo_numbers_1](https://user-images.githubusercontent.com/74567808/113994680-7eab6e80-984d-11eb-9355-8cef09438bdf.png)
 
 ![countdown_demo_numbers_2](https://user-images.githubusercontent.com/74567808/113994683-7eab6e80-984d-11eb-9648-ec7752f20126.png)
 
 ![countdown_demo_numbers_3](https://user-images.githubusercontent.com/74567808/113994688-7f440500-984d-11eb-96a4-3e7b4153084e.png)
+
+![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
+
+![countdown_demo_anagram_2](https://user-images.githubusercontent.com/74567808/113994663-7c491480-984d-11eb-8583-8d68dc146bd3.png)
+
+
