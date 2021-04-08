@@ -44,11 +44,18 @@ Whoever has the longest word gets 5 points based on word length added to their s
 You can click the definition button below each players word which gets the definition from a dictionary API
 ![countdown_demo_letters_2](https://user-images.githubusercontent.com/74567808/113994677-7e12d800-984d-11eb-94b4-3cec68e00302.png)
 
+To start the numbers round you have to select how many large numbers you want (25, 50, 75 or 100) and the rest of the grid is populated
+with numbers 1 - 10.
+
 ![countdown_demo_numbers_1](https://user-images.githubusercontent.com/74567808/113994680-7eab6e80-984d-11eb-9355-8cef09438bdf.png)
 
+Once the grid is populated, a number is shown in the black box and the timer starts.
 ![countdown_demo_numbers_2](https://user-images.githubusercontent.com/74567808/113994683-7eab6e80-984d-11eb-9648-ec7752f20126.png)
 
+When the timer stops both players have to enter the closest number they managed to get to with a calculation using the numbers in the grid.
+The points are added to the player who was closest to the given number.
 ![countdown_demo_numbers_3](https://user-images.githubusercontent.com/74567808/113994688-7f440500-984d-11eb-96a4-3e7b4153084e.png)
+
 
 ![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
 
