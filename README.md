@@ -28,9 +28,12 @@ npm run server:dev
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-Homepage where you can choose to either play an individual section of the game or the full game which leads from one section to the next
+Homepage where you can choose to either play an individual section of the game or the full game.
+For this demo we will use the full game which will lead us from one section into the next.
 ![countdown_demo_homepage](https://user-images.githubusercontent.com/74567808/113994672-7ce1ab00-984d-11eb-9721-ff05e8a6f552.png)
 
+You have to select either consonant or vowel to populate the 9 character grid.
+Once the grid is populated the timer will start.
 ![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/114046491-c992a980-9880-11eb-814a-383c0ee4594e.png)
 
 ![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
