@@ -36,8 +36,12 @@ You have to select either consonant or vowel to populate the 9 character grid.
 Once the grid is populated the timer will start.
 ![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/114046491-c992a980-9880-11eb-814a-383c0ee4594e.png)
 
+Now that the timer is running you have 30 seconds to make the longest word you can using the letters in the grid.
 ![countdown_demo_anagram_1](https://user-images.githubusercontent.com/74567808/113994650-79e6ba80-984d-11eb-86c2-8ea6a25a175e.png)
 
+Both players then enter their words into the text boxes and submit.
+Whoever has the longest word gets 5 points based on word length added to their score.
+You can click the definition button below each players word which gets the definition from a dictionary API
 ![countdown_demo_anagram_2](https://user-images.githubusercontent.com/74567808/113994663-7c491480-984d-11eb-8583-8d68dc146bd3.png)
 
 ![countdown_demo_letters_1](https://user-images.githubusercontent.com/74567808/113994673-7d7a4180-984d-11eb-8795-73675ff16c3d.png)
