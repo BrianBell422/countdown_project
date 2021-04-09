@@ -26,8 +26,17 @@ npm run serve
 npm run server:dev
 ```
 ### Customize configuration
+```
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
+```
+### Brief
+```
+Build a browser based game for which we chose to recreate the popular TV game show “Countdown”.
+```
+### MVP
+```
+The minimum viable product was that there should be a letters round where players can choose consonants or vowels to populate a letters board, there should be a timer for the game, players should be able to submit answers when timer up and that there should be a scoring system, so players can see who has won the game.
+```
 Homepage where you can choose to either play an individual section of the game or the full game.
 For this demo we will use the full game which will lead us from one section into the next.
 ![countdown_demo_homepage](https://user-images.githubusercontent.com/74567808/113994672-7ce1ab00-984d-11eb-9721-ff05e8a6f552.png)
